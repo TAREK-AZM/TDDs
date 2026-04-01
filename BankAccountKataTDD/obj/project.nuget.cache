@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IGZ9fAk3U1s=",
+  "dgSpecHash": "I17QrynNeSE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AL AZAMI\\Desktop\\GINF Cycle\\4GINF\\c#\\BankAccountKataTDD\\BankAccountKataTDD.Tests.csproj",
+  "projectFilePath": "C:\\Users\\AL AZAMI\\Desktop\\GINF Cycle\\4GINF\\c#\\TDDs\\BankAccountKataTDD\\BankAccountKataTDD.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AL AZAMI\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\AL AZAMI\\.nuget\\packages\\fluentassertions\\8.9.0\\fluentassertions.8.9.0.nupkg.sha512",
