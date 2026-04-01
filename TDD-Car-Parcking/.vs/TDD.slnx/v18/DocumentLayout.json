@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AL AZAMI\\Desktop\\GINF Cycle\\4GINF\\c#\\TDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC44875-8C98-AEC6-2666-B1928E097BA4}|TDD.csproj|c:\\users\\al azami\\desktop\\ginf cycle\\4ginf\\c#\\tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC44875-8C98-AEC6-2666-B1928E097BA4}|TDD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC44875-8C98-AEC6-2666-B1928E097BA4}|TDD.csproj|c:\\users\\al azami\\desktop\\ginf cycle\\4ginf\\c#\\tdd\\testlist.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6FC44875-8C98-AEC6-2666-B1928E097BA4}|TDD.csproj|solutionrelative:testlist.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC44875-8C98-AEC6-2666-B1928E097BA4}|TDD.csproj|c:\\users\\al azami\\desktop\\ginf cycle\\4ginf\\c#\\tdd\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6FC44875-8C98-AEC6-2666-B1928E097BA4}|TDD.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestList.md",
+              "DocumentMoniker": "C:\\Users\\AL AZAMI\\Desktop\\GINF Cycle\\4GINF\\c#\\TDD\\TestList.md",
+              "RelativeDocumentMoniker": "TestList.md",
+              "ToolTip": "C:\\Users\\AL AZAMI\\Desktop\\GINF Cycle\\4GINF\\c#\\TDD\\TestList.md",
+              "RelativeToolTip": "TestList.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-11T14:44:07.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AL AZAMI\\Desktop\\GINF Cycle\\4GINF\\c#\\TDD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AL AZAMI\\Desktop\\GINF Cycle\\4GINF\\c#\\TDD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:08:43.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d0d96ad4-4783-4f6e-9e3b-ae6526a888e3",
+        "Display": 0,
+        "X": 772,
+        "Y": 118,
+        "Width": 1380,
+        "Height": 518,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\AL AZAMI\\Desktop\\GINF Cycle\\4GINF\\c#\\TDD\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\AL AZAMI\\Desktop\\GINF Cycle\\4GINF\\c#\\TDD\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-11T13:15:06.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

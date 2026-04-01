@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AArgumentNullException_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F7fcc41fe48c43f71d1476329de953fce8565fcc5dbf3c8c6fdb81c216b19c4_003FArgumentNullException_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AWebApplicationFactory_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fd7dbe7c4cc75f01532fb6ce687bce710e21c95e6c44fd11dbe73c87d22758_003FWebApplicationFactory_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1f95b88a_002D70c6_002D407a_002Da120_002Dc6533aade39e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Sould_throw_exception_if_missing_connection" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FE5A1C41-FFF8-19B2-3862-E5AEF0EE750F::net8.0::Pricing.Infrustructure.Tests.PricingStoreSpecification&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9564346-D08B-CFAA-FE90-78030C5EF45A::net8.0::Pricing.Api.Tests.ApplyPricingEndpointSpecification.Should_return_500_error_if_happened_exception&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9564346-D08B-CFAA-FE90-78030C5EF45A::net8.0::Pricing.Api.Tests.ApplyPricingEndpointSpecification.Should_return_400_error_when_pricing_manager_returns_false&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9564346-D08B-CFAA-FE90-78030C5EF45A::net8.0::Pricing.Api.Tests.ApplyPricingEndpointSpecification.Should_return_200_when_pricing_manager_returns_true&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9564346-D08B-CFAA-FE90-78030C5EF45A::net8.0::Pricing.Api.Tests.ApplyPricingEndpointSpecification.Should_send_request_to_pricing_manager&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9564346-D08B-CFAA-FE90-78030C5EF45A::net8.0::Pricing.Api.Tests.ApplyPricingEndpointSpecification&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=dummey/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

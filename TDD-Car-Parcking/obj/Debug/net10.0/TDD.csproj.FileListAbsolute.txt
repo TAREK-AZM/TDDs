@@ -1,0 +1,14 @@
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\bin\Debug\net10.0\TDD.exe
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\bin\Debug\net10.0\TDD.deps.json
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\bin\Debug\net10.0\TDD.runtimeconfig.json
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\bin\Debug\net10.0\TDD.dll
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\bin\Debug\net10.0\TDD.pdb
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\obj\Debug\net10.0\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\obj\Debug\net10.0\TDD.AssemblyInfoInputs.cache
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\obj\Debug\net10.0\TDD.AssemblyInfo.cs
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\obj\Debug\net10.0\TDD.csproj.CoreCompileInputs.cache
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\obj\Debug\net10.0\TDD.dll
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\obj\Debug\net10.0\refint\TDD.dll
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\obj\Debug\net10.0\TDD.pdb
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\obj\Debug\net10.0\TDD.genruntimeconfig.cache
+C:\Users\AL AZAMI\Desktop\GINF Cycle\4GINF\c#\TDD\obj\Debug\net10.0\ref\TDD.dll

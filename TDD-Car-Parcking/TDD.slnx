@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Pricing.Acceptance.Tests\Pricing.Acceptance.Tests.csproj" Type="Classic C#" />
+  <Project Path="Pricing.Api.Tests\Pricing.Api.Tests.csproj" Type="Classic C#" />
+  <Project Path="Pricing.Api\Pricing.Api.csproj" Type="Classic C#" />
+  <Project Path="Pricing.Core.Tests\Pricing.Core.Tests.csproj" Type="Classic C#" />
+  <Project Path="Pricing.Core\Pricing.Core.csproj" Type="Classic C#" />
+  <Project Path="Pricing.Infrastructure\Pricing.Infrastructure.csproj" Type="Classic C#" />
+  <Project Path="Pricing.Infrustructure.Tests\Pricing.Infrustructure.Tests.csproj" Type="Classic C#" />
+</Solution>
