@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="To do list.md" />
+  </Folder>
+  <Project Path="../BankAccount.Core/BankAccount.Core.csproj" Id="713222f6-12eb-425a-b235-b02b2bf38e2e" />
+  <Project Path="BankAccountKataTDD.Tests.csproj" />
+</Solution>
