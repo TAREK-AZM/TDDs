@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/BankAccountKata/">
+    <Project Path="BankAccountKata.Core_1/BankAccountKata.Core_1.csproj" />
+    <Project Path="BankAccountKata.Core_2/BankAccountKata.Core_2.csproj" />
+    <Project Path="BankAccountKata_1/BankAccountKata_1_Tests.csproj" />
+    <Project Path="BankAccountKata_2_Tests/BankAccountKata_2_Tests.csproj" />
+  </Folder>
+  <Folder Name="/MoneyByExample/">
+    <Project Path="MoneyByExample.Tests/MoneyByExample.Tests.csproj" />
+  </Folder>
+</Solution>
